@@ -1,0 +1,12 @@
+Escriba un programa que permita llevar el control de debitos y creditos varios utilizando 
+uno o más arrays unidimensionales. Las funcionalidades esperadas son:
+a) Ingresar uno o mas debitos
+b) Ingresar uno o mas creditos
+c) Calcular y mostrar el Total de debitos
+d) Calcular y mostrar el Total de creditos
+e) Calcular y mostrar el Saldo
+f) Calcular y mostrar el promedio de debitos
+g) Mostrar el monto de debitos mas grande
+h) Hacer el conteo y mostrar cuantas operaciones de credito y debito se tienen durante la ejecucion
+i) Imprimir los elementos de los arreglos
+j) Eliminar creditos (recibidos por parametro) y por cada uno ejecutar funciones c, d, e, f, g, h
